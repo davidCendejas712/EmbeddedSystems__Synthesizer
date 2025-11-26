@@ -3,9 +3,10 @@
 This project implements a digital audio synthesizer and metronome on a Xilinx Basys3 FPGA board (Artix-7 XC7A35T). The Basys3 is an entry-level development board featuring an Artix-7 FPGA, 100 MHz onboard clock, 16 user switches, 16 LEDs, 5 pushbuttons, and a 4-digit 7-segment display. 
 A numeric keypad (4×4 matrix) is used for inputting musical notes, a speaker outputs synthesized audio, and a piezo buzzer serves as a metronome tick. The design uses a MicroBlaze soft-core processor to run control software and custom AXI peripherals to interface with the keypad, speaker, and buzzer. In this setup, the keys drive a sine-wave generator via PWM to produce audible notes, while the buzzer is toggled at regular intervals to simulate a metronome.
 
-> Unfortunately, I don’t have a demo available anymore since I no longer own the Basys3 board. This project is much more about embedded systems engineering than musical technology.
+Unfortunately, I don’t have a demo available anymore since I no longer own the Basys3 board. This project is much more about embedded systems engineering than musical technology.
 
 Authors: David Cendejas Rodríguez & Marcos Gómez Cortés
+
 ---
 
 ## Hardware Platform
