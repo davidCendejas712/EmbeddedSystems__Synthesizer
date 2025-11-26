@@ -1,5 +1,5 @@
 Copyright (c) 2025
-David Cendejas Rodríguez
+David Cendejas Rodríguez and Marcos Gómez Cortés
 
 Permission is hereby granted to use this software and associated documentation files (the "Software") solely for academic, educational, or research purposes.
 You may view, study, and analyze the code, but you may not reproduce, modify, distribute, sublicense, or use the Software for commercial purposes without the prior written consent of the authors.
